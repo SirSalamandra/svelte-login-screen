@@ -4,6 +4,8 @@ Tired of boring, conventional login forms? This project reimagines the authentic
 
 Instead of simply typing your credentials, you must catch the correct letters and characters as they fall from the top of the screen. It's a test of attention and reflexes that provides a unique and memorable first impression for any application.
 
+You can test it here: https://svelte-future-login.surge.sh/
+
 <img src="./src/assets/presentation.gif" alt="Demo of the Svelte Gamified Login Screen" />
 
 ## ✨ Concept & Inspiration
